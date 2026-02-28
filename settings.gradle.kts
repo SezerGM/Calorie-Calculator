@@ -21,3 +21,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "Calorie Calculator"
 include(":app")
+include(":data")
